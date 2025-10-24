@@ -95,8 +95,9 @@ Marca los que planeas usar:
 
 | Nº | Nombre de la funcionalidad | Descripción breve | Estado actual |
 |----|-----------------------------|-------------------|----------------|
-| 1 |     CRUD de Productos     |  Crear, leer, actualizar y eliminar productos terminados y materias primas. Incluye nombre, precio, categoría, unidad de medida y foto. | ☐ Planeada |
-| 2 |     CRUD de Personas      |  Gestión completa de clientes, empleados (vendedores, panaderos, repartidores), proveedores y administradores con sus roles específicos.  | ☐ Planeada |
+| 1 |     Gestionar ventas de manera eficiente     |  Permitir el registro rápido de ventas diarias, calcular totales automáticamente, gestionar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
+| 2 |     Controlar el inventario y mostrar notificaciones de alerta      |  Administrar el stock de productos terminados y materias primas, alertar sobre niveles críticos de inventario y rastrear movimientos de entrada/salida.  | ☐ Planeada |
+| 3 |     Administrar los roles y los recursos humanos     |  Gestionar información del personal (panaderos, vendedores, repartidores), controlar roles y permisos del sistema, y registrar asistencias y turnos laborales. | ☐ Planeada |
 
 ---
 
