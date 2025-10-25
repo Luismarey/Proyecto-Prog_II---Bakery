@@ -50,11 +50,13 @@ Problema que resuelve: Actualmente, la panadería maneja sus operaciones de form
 Beneficiarios: Propietarios, personal administrativo, vendedores, panaderos y clientes de la panadería.”
 
 ### Objetivos principales
-1.  Gestionar ventas de manera eficiente: Permitir el registro rápido de ventas diarias, calcular totales automáticamente, gestionar diferentes formas de pago y generar comprobantes de venta.
-2.  Controlar inventario en tiempo real: Administrar el stock de productos terminados y materias primas, alertar sobre niveles críticos de inventario y rastrear movimientos de entrada/salida.
-3.  Optimizar la producción diaria: Planificar la producción según demanda histórica, registrar órdenes de producción con consumo automático de materias primas 
-4.  Administrar recursos humanos: Gestionar información del personal (panaderos, vendedores, repartidores), controlar roles y permisos del sistema, y registrar asistencias y turnos laborales.
-5.  Facilitar la toma de decisiones: Generar reportes de ventas, productos más vendidos, análisis de rentabilidad y estadísticas de demanda.
+1.  Administrar recursos humanos: Gestionar información del personal (panaderos, vendedores, repartidores), controlar roles y permisos del sistema, y registrar asistencias y turnos laborales.
+2.  Gestion de Clientes: Registrar a los nuevos clientes y empresas para realizar una venta.
+3.  Gestion de Productos: Registrar de cada uno de los productos que ofrece la Panadería.
+4.  Gestionar ventas de manera eficiente: Permitir el registro rápido de ventas diarias, calcular totales automáticamente, verificar diferentes formas de pago y generar comprobantes de venta.
+5.  Administrar pedidos de Delivery: Gestionar el pedido solicitado por el cliente (envio y entrega).
+6.  Optimizar la producción diaria: Planificar la producción según demanda histórica, registrar órdenes de producción con consumo automático. (futuro)
+7.  Facilitar la toma de decisiones: Generar reportes de ventas, productos más vendidos, análisis de rentabilidad y estadísticas de demanda.
 
 ---
 
@@ -73,11 +75,12 @@ Marca los que planeas usar:
 
   **A. Entidades del Sistema para el Dominio**
 
-- Módulo de Personas (8 clases)
-- Módulo de Productos e Inventario (6 clases)
+- Módulo de Personas y Empresa (8 clases)
+- Módulo de Dirección (3 clases)
+- Módulo de Productos (6 clases)
 - Módulo de Ventas (5 clases)
 - Módulo de Producción (4 clases)
--  Módulo de Localización (3 clases)
+- Módulo de Entregas ()
 
    **B. Gestores / Servicios (6 clases)**
 
@@ -95,9 +98,12 @@ Marca los que planeas usar:
 
 | Nº | Nombre de la funcionalidad | Descripción breve | Estado actual |
 |----|-----------------------------|-------------------|----------------|
-| 1 |     Gestionar ventas de manera eficiente     |  Permitir el registro rápido de ventas diarias, calcular totales automáticamente, gestionar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
-| 2 |     Controlar el inventario y mostrar notificaciones de alerta      |  Administrar el stock de productos terminados y materias primas, alertar sobre niveles críticos de inventario y rastrear movimientos de entrada/salida.  | ☐ Planeada |
-| 3 |     Administrar los roles y los recursos humanos     |  Gestionar información del personal (panaderos, vendedores, repartidores), controlar roles y permisos del sistema, y registrar asistencias y turnos laborales. | ☐ Planeada |
+| 1 |     Administrar recursos humanos     |  Registrar a todas las personas que interactuaran al sistema teniendo encuenta los empleados (panaderos, vendedores, repartidores), clientes y ClienteEmpresa. Se le asignaran un rol y permisos para el sistema. | ☐ Planeada |
+| 2 |      Gestion de Productos      |  Registrar de cada uno de los productos por categorías que sera ofertados a los clientes, efectuando altas y bajas en las modificaciones.  | ☐ Planeada |
+| 3 |     Realizar las ventas de manera eficiente     |  Permitir el registro rápido de ventas diarias, calcular totales automáticamente, verificar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
+| 4 |     Realizar las entregas de los pedidos mediante Delivery    |  Tener todas las ordenes que estan en envios de productos para el pedido solicitado por el cliente para que el adminisrador establezcla las rutas para la carrera del repartidor. (envio y entrega). | ☐ Planeada |
+| 5 |     Realizar el registro de la producción de un producto terminado    |  Se registrará todas las veces que se produce un producto terminado | ☐ Planeada |
+
 
 ---
 
