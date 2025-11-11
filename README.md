@@ -22,9 +22,9 @@
 La Inteligencia Artificial se utilizará en las siguientes etapas:
 
 * Diseño de arquitectura: Consulta sobre patrones de diseño y mejores prácticas en POO
+* Creación de interfaces visuales: Creación de las vistas del Frontend por el poco manejo del lenguaje HTML
 * Optimización de código: Revisión de lógica de negocio y refactorización
-* Generación de datos de prueba: Creación de datasets realistas para testing
-* Documentación: Asistencia en documentación técnica y comentarios de código.   
+* Documentación: Asistencia en documentación técnica y comentarios de código  
 * Resolución de bugs: Análisis de errores y sugerencias de solución
 
 
