@@ -44,7 +44,6 @@ El proyecto está diseñado para ser implementado en tres materias complementari
 
 * Programación Orientada a Objetos (POO): Arquitectura, lógica de negocio y estructuras de datos
 * Base de Datos II: Diseño y gestión de la base de datos relacional
-* Interacción Humano-Computador (IHC): Diseño de interfaces intuitivas mediante wireframes y mockups
 
 Problema que resuelve: Actualmente, la panadería maneja sus operaciones de forma manual o con sistemas desintegrados, lo que dificulta el control de inventarios, genera pérdidas por falta de seguimiento de productos y complica la toma de decisiones estratégicas.
 Beneficiarios: Propietarios, personal administrativo, vendedores, panaderos y clientes de la panadería.”
