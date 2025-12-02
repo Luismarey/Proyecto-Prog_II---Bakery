@@ -97,12 +97,9 @@ Marca los que planeas usar:
 
 | Nº | Nombre de la funcionalidad | Descripción breve | Estado actual |
 |----|-----------------------------|-------------------|----------------|
-| 1 |     Administrar recursos humanos     |  Registrar a todas las personas que interactuaran al sistema teniendo encuenta los empleados (panaderos, vendedores, repartidores), clientes y ClienteEmpresa. Se le asignaran un rol y permisos para el sistema. | ☐ Planeada |
+| 1 |     Modulo Persona     |  Registrar a todas las personas que interactuaran al sistema teniendo encuenta los empleados (panaderos, vendedores, repartidores), clientes y ClienteEmpresa. Se le asignaran un rol y permisos para el sistema. | ☐ Planeada |
 | 2 |      Gestion de Productos      |  Registrar de cada uno de los productos por categorías que sera ofertados a los clientes, efectuando altas y bajas en las modificaciones.  | ☐ Planeada |
 | 3 |     Realizar las ventas de manera eficiente     |  Permitir el registro rápido de ventas diarias, calcular totales automáticamente, verificar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
-| 4 |     Realizar las entregas de los pedidos mediante Delivery    |  Tener todas las ordenes que estan en envios de productos para el pedido solicitado por el cliente para que el adminisrador establezcla las rutas para la carrera del repartidor. (envio y entrega). | ☐ Planeada |
-| 5 |     Realizar el registro de la producción de un producto terminado    |  Se registrará todas las veces que se produce un producto terminado | ☐ Planeada |
-
 
 ---
 
