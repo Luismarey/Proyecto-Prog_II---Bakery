@@ -99,7 +99,8 @@ Marca los que planeas usar:
 |----|-----------------------------|-------------------|----------------|
 | 1 |     Modulo Persona     |  Registrar a todas las personas que interactuaran al sistema teniendo encuenta los empleados (panaderos, vendedores, repartidores), clientes y ClienteEmpresa. Se le asignaran un rol y permisos para el sistema. | ☐ Planeada |
 | 2 |      Gestion de Productos      |  Registrar de cada uno de los productos por categorías que sera ofertados a los clientes, efectuando altas y bajas en las modificaciones.  | ☐ Planeada |
-| 3 |     Realizar las ventas de manera eficiente     |  Permitir el registro rápido de ventas diarias, calcular totales automáticamente, verificar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
+| 3 |     Modulo Ordenes    |  Realizar una orden dentro del sistema para un cliente, calcular totales automáticamente, verificar diferentes formas de pago y generar comprobantes de venta. | ☐ Planeada |
+| 4 |     Modulo Producciones    |   Registrar un nueva produccion en el sistema para cada dia, llenando la plantilla con sus datos de registro y efectuando altas y bajas en sus modificaciones.   |  ☐ Planeada  |
 
 ---
 
